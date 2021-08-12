@@ -31,12 +31,6 @@ def unTriangle(longueurCote):
         turtle.left(360/3)
 
 
-def miniper(longueur1,longueur2):
-    
-        miniTr.forward(longueur1)
-        miniTr.left(90)
-        miniTr.forward(longueur2)
-
 miniTr.penup()
 miniTr.sety(0)
 miniTr.setx(-505)
